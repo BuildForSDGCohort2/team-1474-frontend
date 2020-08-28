@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="847" height="600" viewBox="0 0 847 600">
+  <g id="Groupe_98" data-name="Groupe 98" transform="translate(-1043 -320)">
+    <g id="Groupe_4" data-name="Groupe 4">
+      <path id="Icon_material-landscape" data-name="Icon material-landscape" d="M47.35,9,34.124,26.635l10.052,13.4-5.643,4.232c-5.96-7.936-15.871-21.161-15.871-21.161L1.5,51.323H79.092Z" transform="translate(1106.578 333)" fill="#ffb400"/>
+      <text id="_Land_owners" data-name="     Land owners" transform="translate(1063 424)" fill="#ffb400" font-size="20" font-family="SegoeUI-Light, Segoe UI" font-weight="300"><tspan x="0" y="0" xml:space="preserve">     Land owners</tspan></text>
+      <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(1043 320)" fill="none" stroke="#ffb400" stroke-width="1" stroke-dasharray="6">
+        <rect width="210" height="130" stroke="none"/>
+        <rect x="0.5" y="0.5" width="209" height="129" fill="none"/>
+      </g>
+    </g>
+    <g id="Groupe_5" data-name="Groupe 5" transform="translate(320)">
+      <g id="Groupe_97" data-name="Groupe 97">
+        <text id="Agronomist_veteri" data-name="Agronomist/ veteri" transform="translate(1065 424)" fill="#ffb400" font-size="20" font-family="SegoeUI-Light, Segoe UI" font-weight="300"><tspan x="0" y="0">Agronomist/ veteri</tspan></text>
+        <g id="Rectangle_4-2" data-name="Rectangle 4" transform="translate(1043 320)" fill="none" stroke="#ffb400" stroke-width="1" stroke-dasharray="6">
+          <rect width="210" height="130" stroke="none"/>
+          <rect x="0.5" y="0.5" width="209" height="129" fill="none"/>
+        </g>
+        <path id="Icon_open-spreadsheet" data-name="Icon open-spreadsheet" d="M4.688,0A4.722,4.722,0,0,0,0,4.688V39.063A4.722,4.722,0,0,0,4.688,43.75H45.313A4.722,4.722,0,0,0,50,39.063V4.688A4.722,4.722,0,0,0,45.313,0ZM6.25,6.25H12.5V12.5H6.25Zm12.5,0h25V12.5h-25ZM6.25,18.75H12.5V25H6.25Zm12.5,0h25V25h-25ZM6.25,31.25H12.5V37.5H6.25Zm12.5,0h25V37.5h-25Z" transform="translate(1119 346)" fill="#ffb400"/>
+      </g>
+    </g>
+    <line id="Ligne_2" data-name="Ligne 2" x2="110" transform="translate(1253.5 375.5)" fill="none" stroke="#ffb400" stroke-width="1" stroke-dasharray="5"/>
+    <g id="Groupe_6" data-name="Groupe 6" transform="translate(320 230)">
+      <text id="Investors_donors" data-name="Investors / donors" transform="translate(1073 424)" fill="#ffb400" font-size="20" font-family="SegoeUI-Light, Segoe UI" font-weight="300"><tspan x="0" y="0">Investors / donors</tspan></text>
+      <g id="Rectangle_4-3" data-name="Rectangle 4" transform="translate(1043 320)" fill="none" stroke="#ffb400" stroke-width="1" stroke-dasharray="6">
+        <rect width="210" height="130" stroke="none"/>
+        <rect x="0.5" y="0.5" width="209" height="129" fill="none"/>
+      </g>
+      <path id="Icon_awesome-money-check" data-name="Icon awesome-money-check" d="M0,44.036A3.113,3.113,0,0,0,3,47.25H57a3.113,3.113,0,0,0,3-3.214V11.893H0ZM42,23.143a1.556,1.556,0,0,1,1.5-1.607h9A1.556,1.556,0,0,1,54,23.143v3.214a1.556,1.556,0,0,1-1.5,1.607h-9A1.556,1.556,0,0,1,42,26.357ZM42,35.2a.778.778,0,0,1,.75-.8h10.5a.778.778,0,0,1,.75.8V36.8a.778.778,0,0,1-.75.8H42.75a.778.778,0,0,1-.75-.8ZM6,25.554a.778.778,0,0,1,.75-.8h28.5a.778.778,0,0,1,.75.8v1.607a.778.778,0,0,1-.75.8H6.75a.778.778,0,0,1-.75-.8ZM6,35.2a.778.778,0,0,1,.75-.8h16.5a.778.778,0,0,1,.75.8V36.8a.778.778,0,0,1-.75.8H6.75A.778.778,0,0,1,6,36.8ZM58.5,2.25H1.5A1.556,1.556,0,0,0,0,3.857V8.679H60V3.857A1.556,1.556,0,0,0,58.5,2.25Z" transform="translate(1115 347.526)" fill="#ffb400"/>
+    </g>
+    <g id="Groupe_7" data-name="Groupe 7" transform="translate(637 230)">
+      <text id="Transporters_" data-name="Transporters " transform="translate(1094 424)" fill="#ffb400" font-size="20" font-family="SegoeUI-Light, Segoe UI" font-weight="300"><tspan x="0" y="0">Transporters </tspan></text>
+      <g id="Rectangle_4-4" data-name="Rectangle 4" transform="translate(1043 320)" fill="none" stroke="#ffb400" stroke-width="1" stroke-dasharray="6">
+        <rect width="210" height="130" stroke="none"/>
+        <rect x="0.5" y="0.5" width="209" height="129" fill="none"/>
+      </g>
+      <path id="Icon_awesome-truck-moving" data-name="Icon awesome-truck-moving" d="M58.247,21.5l-5.484-5.484a6,6,0,0,0-4.247-1.753H45V5.25a3,3,0,0,0-3-3H3a3,3,0,0,0-3,3v31.5a7.481,7.481,0,0,0,13.5,4.463A7.481,7.481,0,0,0,27,36.75a7.9,7.9,0,0,0-.15-1.5h15.3a7.205,7.205,0,0,0-.15,1.5,7.5,7.5,0,1,0,15,0,7.9,7.9,0,0,0-.15-1.5H58.5a1.5,1.5,0,0,0,1.5-1.5V25.734A5.98,5.98,0,0,0,58.247,21.5ZM7.5,39.75a3,3,0,1,1,3-3A3.009,3.009,0,0,1,7.5,39.75Zm12,0a3,3,0,1,1,3-3A3.009,3.009,0,0,1,19.5,39.75Zm25.5-21h3.516a1.489,1.489,0,0,1,1.059.441l4.059,4.059H45Zm4.5,21a3,3,0,1,1,3-3A3.009,3.009,0,0,1,49.5,39.75Z" transform="translate(1121 351)" fill="#ffb400"/>
+      <text id="Transporters_2" data-name="Transporters " transform="translate(1094 424)" fill="#ffb400" font-size="20" font-family="SegoeUI-Light, Segoe UI" font-weight="300"><tspan x="0" y="0">Transporters </tspan></text>
+    </g>
+    <line id="Ligne_4" data-name="Ligne 4" y2="100" transform="translate(1468.5 450.5)" fill="none" stroke="#ffb400" stroke-width="1" stroke-dasharray="5"/>
+    <line id="Ligne_5" data-name="Ligne 5" x1="107" y2="1" transform="translate(1573.5 604.5)" fill="none" stroke="#ffb400" stroke-width="1" stroke-dasharray="5"/>
+    <g id="Groupe_8" data-name="Groupe 8" transform="translate(637 470)">
+      <text id="Resselers_retailers" data-name="Resselers / retailers" transform="translate(1074 424)" fill="#ffb400" font-size="20" font-family="SegoeUI-Light, Segoe UI" font-weight="300"><tspan x="0" y="0">Resselers / retailers</tspan></text>
+      <g id="Rectangle_4-5" data-name="Rectangle 4" transform="translate(1043 320)" fill="none" stroke="#ffb400" stroke-width="1" stroke-dasharray="6">
+        <rect width="210" height="130" stroke="none"/>
+        <rect x="0.5" y="0.5" width="209" height="129" fill="none"/>
+      </g>
+      <path id="Icon_awesome-shopping-basket" data-name="Icon awesome-shopping-basket" d="M60,21.417v1.667a2.5,2.5,0,0,1-2.5,2.5h-.833l-2.72,19.04A5,5,0,0,1,49,48.917H11a5,5,0,0,1-4.95-4.293l-2.72-19.04H2.5a2.5,2.5,0,0,1-2.5-2.5V21.417a2.5,2.5,0,0,1,2.5-2.5H9.515L20.638,3.623a3.333,3.333,0,1,1,5.392,3.921L17.758,18.917H42.242L33.971,7.544a3.333,3.333,0,0,1,5.392-3.921L50.485,18.917H57.5A2.5,2.5,0,0,1,60,21.417ZM32.5,39.75V28.083a2.5,2.5,0,1,0-5,0V39.75a2.5,2.5,0,1,0,5,0Zm11.667,0V28.083a2.5,2.5,0,1,0-5,0V39.75a2.5,2.5,0,0,0,5,0Zm-23.333,0V28.083a2.5,2.5,0,1,0-5,0V39.75a2.5,2.5,0,1,0,5,0Z" transform="translate(1116 341)" fill="#ffb400"/>
+    </g>
+    <g id="Groupe_96" data-name="Groupe 96">
+      <g id="Groupe_10" data-name="Groupe 10" transform="translate(217 470)">
+        <text id="_Customers" data-name="     Customers" transform="translate(1072 429)" fill="#ffb400" font-size="20" font-family="SegoeUI-Light, Segoe UI" font-weight="300"><tspan x="0" y="0" xml:space="preserve">     Customers</tspan></text>
+        <g id="Rectangle_4-6" data-name="Rectangle 4" transform="translate(1043 320)" fill="none" stroke="#ffb400" stroke-width="1" stroke-dasharray="6">
+          <rect width="210" height="130" stroke="none"/>
+          <rect x="0.5" y="0.5" width="209" height="129" fill="none"/>
+        </g>
+      </g>
+      <path id="Icon_awesome-user-alt" data-name="Icon awesome-user-alt" d="M30,33.75A16.875,16.875,0,1,0,13.125,16.875,16.879,16.879,0,0,0,30,33.75ZM45,37.5H38.543a20.4,20.4,0,0,1-17.086,0H15a15,15,0,0,0-15,15v1.875A5.626,5.626,0,0,0,5.625,60h48.75A5.626,5.626,0,0,0,60,54.375V52.5A15,15,0,0,0,45,37.5Z" transform="translate(1329.6 806)" fill="#ffb400"/>
+    </g>
+    <line id="Ligne_6" data-name="Ligne 6" x1="210" y2="1" transform="translate(1470.5 854.5)" fill="none" stroke="#ffb400" stroke-width="1" stroke-dasharray="5"/>
+    <line id="Ligne_7" data-name="Ligne 7" y1="110" transform="translate(1788.5 680.5)" fill="none" stroke="#ffb400" stroke-width="1" stroke-dasharray="5"/>
+  </g>
+</svg>

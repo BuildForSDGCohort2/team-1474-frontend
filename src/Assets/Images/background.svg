@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1073" viewBox="0 0 1920 1073">
+  <defs>
+    <clipPath id="clip-Landing_page_1">
+      <rect width="1920" height="1073"/>
+    </clipPath>
+  </defs>
+  <g id="Landing_page_1" data-name="Landing page – 1" clip-path="url(#clip-Landing_page_1)">
+    <g id="Tracé_199" data-name="Tracé 199" transform="translate(1030 314)" fill="#fff">
+      <path d="M521,259h0Z" stroke="none"/>
+      <path d="M 0 259 L 521 259 L 0 259 Z" stroke="none" fill="#707070"/>
+    </g>
+    <g id="Tracé_200" data-name="Tracé 200" transform="translate(1414 61)" fill="#fff">
+      <path d="M253,0Z" stroke="none"/>
+      <path d="M 230.4434204101563 0 L 270.7036437988281 0 L 230.4434204101563 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(666 435)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="3.5" cy="0.5" rx="3.5" ry="0.5" stroke="none"/>
+      <ellipse cx="3.5" cy="0.5" rx="3" fill="none"/>
+    </g>
+    <path id="Tracé_205" data-name="Tracé 205" d="M607.5,0c-19.08,160.165,425.478,232.023,425.478,462.325S928.131,869.441,592.618,869.441c-23.046,0-944.531,10.4-1239.616,0-52.935-1.866-82.173,32.588-86.1,32.232C-1031.117,874.706,0,628.648,0,417c0-59.648,109.546-230.44,171.647-295.04C348.771-62.29,621.638-118.682,607.5,0Z" transform="translate(725 209)" fill="rgba(255,180,0,0.17)"/>
+    <path id="Tracé_207" data-name="Tracé 207" d="M1133.3,194.05c4.49,122.091-.316,85.863,7.144,126.1,4.263,22.989.162,122.894,0,226.409-.035,22.2.273,45.263,0,67.123-.994,79.61-3.684,151.233-4.323,181.308-1.423,66.986,5.09-369.461,4.323-23.066,0,347.137,74.974,564.077-343.094,564.077S30.356,971.945,30.356,624.808c0-106.224-264.777-322.841-208.584-410.839,14.685-23-7.239-23.1,820.1-22.457C778.647,191.619,944.5,194.05,1133.3,194.05Z" transform="translate(780.01 -263)" fill="#1e670e" opacity="0.74"/>
+    <path id="Tracé_208" data-name="Tracé 208" d="M369.688,26c.642,107.81,0,78.336,0,157.865S352.369,288,227,288,0,223.529,0,144C0,128.571-50.965,26-50.965,26Z" transform="translate(1555.336 -26)" fill="#1a7106" opacity="0.81"/>
+  </g>
+</svg>

@@ -1,0 +1,98 @@
+.container {
+  height: 100vh;
+  background-image: url('../../Images//background.svg');
+  background-size: contain;
+  background-position: right top;
+  background-repeat: no-repeat;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title {
+  color: $primary-color;
+  font-size: 1.8em;
+}
+
+.arrow-text {
+  background-image: url('../../Images//arrow-text.svg');
+  background-size: contain;
+  background-position: right;
+  background-repeat: no-repeat;
+  padding: 20px;
+}
+
+.subtitle {
+  font-weight: 80;
+  font-size: 2em;
+  color: $primary-color;
+  margin-top: 30px;
+  line-height: 1.3em;
+}
+
+.get-started-btn {
+  background-color: $primary-color;
+  color: $accent-color;
+  margin-top: 30px;
+}
+
+.flow-image {
+  height: 400px;
+  float: right;
+}
+
+@media only screen and (min-width: 760px) {
+  .title {
+    font-size: 1.4em;
+  }
+
+  .subtitle {
+    font-size: 1.6em;
+  }
+
+  .flow-image {
+    height: 300px;
+    float: right;
+    margin-top: 100px;
+  }
+
+  .intro-text {
+    margin-top: 110px;
+  }
+}
+
+@media only screen and (min-width: 1110px) {
+  .intro-text {
+    padding-left: 40px;
+    padding-top: 20px;
+    margin-top: 150px;
+  }
+
+  .flow-image {
+    margin-top: 150px;
+    height: 370px;
+  }
+
+  .title {
+    font-size: 1.8em;
+  }
+
+  .subtitle {
+    font-size: 2em;
+  }
+}
+
+@media only screen and (max-width: 760px) {
+  .intro-text {
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  .text-container {
+    width: 100%;
+    margin-top: 50px;
+  }
+
+  .demo {
+    background-color: $primary-color;
+    padding: 40px;
+  }
+}

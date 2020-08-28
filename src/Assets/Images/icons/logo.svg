@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320.218" height="70.358" viewBox="0 0 320.218 70.358">
+  <g id="Groupe_23" data-name="Groupe 23" transform="translate(-114.782 -48.306)">
+    <g id="Groupe_22" data-name="Groupe 22">
+      <g id="Groupe_21" data-name="Groupe 21" transform="translate(0 10)">
+        <g id="Groupe_19" data-name="Groupe 19" transform="translate(114.782 19.065)">
+          <path id="Icon_awesome-leaf" data-name="Icon awesome-leaf" d="M52.154.836a1.558,1.558,0,0,0-2.7-.1A16.762,16.762,0,0,1,35.137,8.251H27.5c-10.122,0-18.335,7.39-18.335,16.5a15.318,15.318,0,0,0,.143,1.761c6.093-3.927,14.888-7.261,27.359-7.261a1.382,1.382,0,1,1,0,2.75C12.657,22,2.478,35.24.224,40.215A2.662,2.662,0,0,0,1.9,43.79,3.19,3.19,0,0,0,5.887,42.3a22.978,22.978,0,0,1,6.866-7.785,19.151,19.151,0,0,0,16.7,6.633C44.448,40.172,55,28.074,55,13.26A28.587,28.587,0,0,0,52.154.836Z" transform="matrix(0.588, -0.809, 0.809, 0.588, 0, 63.736)" fill="#ffb400"/>
+        </g>
+      </g>
+      <text id="FARMER" transform="translate(184 98)" fill="#ffb400" font-size="35" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">FARMER</tspan></text>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="108" height="47" rx="20" transform="translate(327 60)" fill="#ffb400"/>
+      <text id="HUB" transform="translate(348 97)" fill="#247411" font-size="35" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">HUB</tspan></text>
+    </g>
+  </g>
+</svg>
