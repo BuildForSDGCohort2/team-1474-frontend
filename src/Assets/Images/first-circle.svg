@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1183" height="1142" viewBox="0 0 1183 1142">
+  <defs>
+    <clipPath id="clip-Landing_page_1">
+      <rect width="1183" height="1142"/>
+    </clipPath>
+  </defs>
+  <g id="Landing_page_1" data-name="Landing page – 1" clip-path="url(#clip-Landing_page_1)">
+    <path id="Tracé_201" data-name="Tracé 201" d="M990.589,194c4,119.751-.282,84.218,6.371,123.682,3.8,22.549.145,120.538,0,222.069-.031,21.774.243,44.4,0,65.836-.887,78.084-3.285,148.334-3.855,177.833-1.269,65.7,4.54-362.379,3.855-22.624,0,340.484,66.864,553.266-305.983,553.266S6.948,956.984,6.948,616.5c0-104.188-236.138-316.653-186.022-402.964,13.1-22.556-6.456-22.655,731.391-22.026C674.3,191.613,822.218,194,990.589,194Z" transform="translate(186.055 -263)" fill="#478c38"/>
+    <g id="Tracé_199" data-name="Tracé 199" transform="translate(487.391 314)" fill="#fff">
+      <path d="M521,259h0Z" stroke="none"/>
+      <path d="M 0 259 L 521 259 L 0 259 Z" stroke="none" fill="#707070"/>
+    </g>
+    <g id="Tracé_200" data-name="Tracé 200" transform="translate(677 61)" fill="#fff">
+      <path d="M253,0Z" stroke="none"/>
+      <path d="M 230.4434204101563 0 L 270.7036437988281 0 L 230.4434204101563 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <path id="Tracé_202" data-name="Tracé 202" d="M369.688,26c.642,107.81,0,78.336,0,157.865S352.369,288,227,288,0,223.529,0,144C0,128.571-50.965,26-50.965,26Z" transform="translate(817.336 -26)" fill="#1a7106"/>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(410 435)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="3.5" cy="0.5" rx="3.5" ry="0.5" stroke="none"/>
+      <ellipse cx="3.5" cy="0.5" rx="3" fill="none"/>
+    </g>
+  </g>
+</svg>

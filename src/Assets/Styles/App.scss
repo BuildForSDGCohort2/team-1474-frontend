@@ -1,0 +1,22 @@
+@import "./colors.scss";
+@import "./variables.scss";
+@import "~bootstrap/scss/bootstrap";
+@import "./components//header.scss";
+@import "./components//menu.scss";
+@import "./components//stats.scss";
+@import "./pages/home.scss";
+@import "./pages/resetPassword.scss";
+@import "./pages/dashboard.scss";
+@import "./pages/createLand.scss";
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  background-color: #9ac091;
+}
